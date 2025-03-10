@@ -1,6 +1,3 @@
-from __future__ import annotations
-
-
 class Dictionary:
     def __init__(self) -> None:
         self.capacity = 8
